@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ProjectGuidesConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectItemGuides>
+    <ProjectItemGuide TargetFile="Anemoscope.xaml">
+      <GuideModels>
+        <GuideModel>
+          <Guides>
+            <Guide Alignment="Left" Position="240" />
+            <Guide Alignment="Top" Position="240" />
+            <Guide Alignment="Left" Position="220" />
+            <Guide Alignment="Left" Position="260" />
+            <Guide Alignment="Top" Position="113" />
+            <Guide Alignment="Top" Position="326" />
+            <Guide Alignment="Top" Position="283" />
+          </Guides>
+        </GuideModel>
+      </GuideModels>
+    </ProjectItemGuide>
+  </ProjectItemGuides>
+</ProjectGuidesConfiguration>
